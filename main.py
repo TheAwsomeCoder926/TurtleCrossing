@@ -8,6 +8,8 @@ cars = car.Car()
 player1 = player.Player()
 screen = turtle.Screen()
 
+# Hi
+
 # Setup
 screen.setup(width=800, height=450, startx=100, starty=None)
 

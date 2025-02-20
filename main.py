@@ -18,7 +18,7 @@ player1.goto(0, -200)  # Make it go to the bottom of the Window
 
 turtle.listen()
 turtle.onkey(player1.player_forward, "space")  # Makes player go forward
-turtle.onkey(player1.player_backward, "Right")  # Makes the player go back ("It's a Dev thing")
+turtle.onkey(player1.player_backward, "Right")  # Makes the player go back
 
 running = True  # The while loop thing
 levels_beat = 0  # The amount of levels beat
